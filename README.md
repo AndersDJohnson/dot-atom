@@ -1,2 +1,2 @@
 # dot-atom
-My Atom configs.
+My [Atom](https://atom.io) editor configs.
